@@ -1,0 +1,14 @@
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\bin\Debug\net8.0\TPMODUL6_2311104079.exe
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\bin\Debug\net8.0\TPMODUL6_2311104079.deps.json
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\bin\Debug\net8.0\TPMODUL6_2311104079.runtimeconfig.json
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\bin\Debug\net8.0\TPMODUL6_2311104079.dll
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\bin\Debug\net8.0\TPMODUL6_2311104079.pdb
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.AssemblyInfoInputs.cache
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.AssemblyInfo.cs
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.csproj.CoreCompileInputs.cache
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.dll
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\refint\TPMODUL6_2311104079.dll
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.pdb
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\TPMODUL6_2311104079.genruntimeconfig.cache
+C:\Users\Pradana Argo P\source\repos\TPMODUL6_2311104079\TPMODUL6_2311104079\obj\Debug\net8.0\ref\TPMODUL6_2311104079.dll
