@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "YIS",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "MSA",
+			"name": "Basis Data"
+		},
+		{
+			"code": "GFA",
+			"name": "Interaksi Manusia Komputer"
+		},
+		{
+			"code": "ADI",
+			"name": "Proyek Tingkat II"
+		},
+		{
+			"code": "GFA",
+			"name": "Rekayasa Kebutuhan Perangkat Lunak"
+		},
+		{
+			"code": "RAD",
+			"name": "Pemodelan Perangkat Lunak"
+		},
+		{
+			"code": "AAH",
+			"name": "Arsitektur Dan Desain Perangkat Lunak"
+		}
+	]
+}
