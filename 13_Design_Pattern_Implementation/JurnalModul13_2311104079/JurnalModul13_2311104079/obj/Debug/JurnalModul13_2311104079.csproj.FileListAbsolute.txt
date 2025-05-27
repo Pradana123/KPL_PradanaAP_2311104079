@@ -1,0 +1,7 @@
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\bin\Debug\JurnalModul13_2311104079.exe.config
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\bin\Debug\JurnalModul13_2311104079.exe
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\bin\Debug\JurnalModul13_2311104079.pdb
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\obj\Debug\JurnalModul13_2311104079.csproj.AssemblyReference.cache
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\obj\Debug\JurnalModul13_2311104079.csproj.CoreCompileInputs.cache
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\obj\Debug\JurnalModul13_2311104079.exe
+C:\CODE\JurnalModul13_2311104079\JurnalModul13_2311104079\obj\Debug\JurnalModul13_2311104079.pdb
