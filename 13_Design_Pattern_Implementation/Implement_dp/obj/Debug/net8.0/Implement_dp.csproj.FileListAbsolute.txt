@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.sourcelink.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\bin\Debug\net8.0\Implement_dp.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\bin\Debug\net8.0\Implement_dp.deps.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\bin\Debug\net8.0\Implement_dp.runtimeconfig.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\bin\Debug\net8.0\Implement_dp.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\bin\Debug\net8.0\Implement_dp.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\refint\Implement_dp.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\Implement_dp.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\Modul\Implement_dp\Implement_dp\obj\Debug\net8.0\ref\Implement_dp.dll
