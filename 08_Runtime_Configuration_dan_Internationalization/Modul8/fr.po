@@ -1,0 +1,26 @@
+﻿msgid "Home Page"
+msgstr "Page d'accueil"
+
+msgid "Welcome, {0}!"
+msgstr "Bienvenue, {0}!"
+
+msgid "Learn about "
+msgstr "En savoir plus sur "
+
+msgid "building Web apps with ASP.NET Core"
+msgstr "la construction d'applications Web avec ASP.NET Core"
+
+msgid "Change Language"
+msgstr "Changer la langue"
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "Use this page to detail your site's privacy policy."
+msgstr "Utilisez cette page pour détailler la politique de confidentialité de votre sit"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Privacy"
+msgstr "Confidentialité"
