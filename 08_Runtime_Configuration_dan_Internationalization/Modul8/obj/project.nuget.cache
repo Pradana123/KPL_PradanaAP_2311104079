@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAdlGFBtdX8=",
+  "success": true,
+  "projectFilePath": "C:\\CODE\\KPL\\KPL_Pradana\\08_Runtime_Configuration_dan_Internationalization\\MODUL\\Modul8\\Modul8\\Modul8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.localization\\9.0.4\\microsoft.extensions.localization.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\9.0.4\\microsoft.extensions.localization.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.4\\microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.options\\9.0.4\\microsoft.extensions.options.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\orchardcore.localization.abstractions\\2.1.7\\orchardcore.localization.abstractions.2.1.7.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\orchardcore.localization.core\\2.1.7\\orchardcore.localization.core.2.1.7.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.4\\system.diagnostics.diagnosticsource.9.0.4.nupkg.sha512",
+    "C:\\Users\\pradana\\.nuget\\packages\\zstring\\2.6.0\\zstring.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
